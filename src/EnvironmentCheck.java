@@ -3,5 +3,6 @@
 public class EnvironmentCheck{
     public static void main(String[] args) {
         System.out.println("Agile Build and Delivery environment ready");
+        System.out.println("Agile Build and Delivery environment ready to go");
     }
 }
